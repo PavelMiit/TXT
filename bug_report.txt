@@ -8,7 +8,7 @@ Environment: 1) Xiaomi Mi 9SE (MIUI Global 12.5.1) Android 11 RKQ1.200826.002; 5
 		     
 Precondition: install app
 STR:
-1) Open app “AndroidGridTest”
+1) Open app "AndroidGridTest"
 2) Click on the “add widget” button
 3) Press the "Add Widget" button several times
 4) Make sure widget icons appear on blank screens
