@@ -1,0 +1,5 @@
+Favorite Movie - "Spider-Man";
+Favorit TV show - "Friends";
+Favorit Food - potatoes;
+Favorite Time Of Ear - winter;
+Favorite Country - "UK".

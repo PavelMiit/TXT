@@ -1,0 +1,7 @@
+skils 1 - "Bash";
+skils 2 - "Postman";
+skils 3 - "SQL";
+skils 4 - "DevTools";
+skils 5 - "DBeaver"
+
+
